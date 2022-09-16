@@ -24,7 +24,7 @@ My experience with this language started 1 year ago. I participated in freelance
 - .Net 6
 
 ** Databases:
-- - MsSQL
+- MsSQL
 - MongoDB
 <br><br>
 
@@ -56,7 +56,7 @@ document.querySelector('.btn-repos').onclick = function (e) {
 
 ## 📚 Languages
 
--English [EPAM English test result]([https://examinator.epam.com/Main/PersonalAssignments](https://examinator.epam.com/Main/PersonalAssignments/438259)): **A2+**
+-English [EPAM English test result]([[(https://examinator.epam.com/Main/PersonalAssignments/438259)]): **A2+** <br>
 -Russian
 
 <br>
