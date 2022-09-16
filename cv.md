@@ -28,7 +28,7 @@ My experience with this language started 1 year ago. I participated in freelance
 - MongoDB
 <br><br>
 
-## Code Example:
+## 🪬 Code Example:
 [GitHub User Searcher](https://udesurd.github.io/github_user_searcher/)
 ```js
 document.querySelector('.btn').onclick = function (e) {
