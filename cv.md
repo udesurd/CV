@@ -13,17 +13,17 @@ My experience with this language started 1 year ago. I participated in freelance
 
 ## 🦤 Skills
 
-** My skills include: **
+**My skills include:**
 - HTML 
 - CSS (Bootstrap, Preprocessor SCSS, BEM methodology)
 - JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)
 - C#
 
-** Frameworks: **
+**Frameworks:**
 - React / Redux.
 - .Net 6
 
-** Databases: **
+**Databases:**
 - MsSQL
 - MongoDB
 <br><br>
