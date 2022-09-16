@@ -31,7 +31,7 @@ My experience with this language started 1 year ago. I participated in freelance
 ## Code Example:
 
 ```js
-document.querySelector('.btn-repos').onclick = function{color:blue} (e) {
+document.querySelector('.btn-repos').onclick = function (e) {
     e.preventDefault();
     let login = document.querySelector('.input').value;
     let resulltVision = document.querySelector('.form__result')
