@@ -1,7 +1,7 @@
 # Rostislav Dmitriev
 JavaScript developer based in Belarus.<br>
 
-[Email](mailto:udesurd@gmail.com) / [GitHub](https://github.com/udesurd/) / [Phone](tel:+375(29)6437427)
+[Email](mailto:udesurd@gmail.com) / [GitHub](https://github.com/udesurd/) / [Codewars](https://www.codewars.com/users/udesu) / [Phone](tel:+375(29)6437427)
 
 ## 👨🏻‍💻 About Me
 
